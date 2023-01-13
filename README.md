@@ -1,2 +1,2 @@
-# judetobias.github.io
+# Jude Tobias
 Poetry
